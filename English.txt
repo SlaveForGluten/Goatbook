@@ -1,0 +1,216 @@
+run_me:profiles_frame:Profiles
+run_me:charts_frame:Charts
+run_me:calendar_frame:Calendar
+run_me:options_frame:Options
+run_me:add_profile:Add Profile
+run_me:view_profiles:Compare Profiles
+run_me:search_for_profile:Search For Profile
+run_me:add_profile_label:-  Add a new goat profile.
+run_me:view_profiles_label:-  Compare profiles in your herd.
+run_me:search_for_profile_label:-  Find existing profile to view, edit or delete it.
+run_me:family_tree:Family tree
+run_me:milking:MIlking chart
+run_me:age_pyramid:Age pyramid
+run_me:fam_tree_label:-  Display genealogy tree for all goats in your herd.
+run_me:milking_label:-  Chart showing milking during the year.
+run_me:age_pyramid_label:-  Age pyramid of your herd.
+run_me:messagebox1:Yay!
+run_me:messagebox2:Zrestartuj aplikacje / Restart the program.
+run_me:label_frame:Languages
+run_me:button:Apply
+add_profiles_tab:back_button:Back
+add_profiles_tab:save_button:Save
+add_profiles_tab:help_button:?
+add_profiles_tab:name_label:Goat's name
+add_profiles_tab:id_label:ID number
+add_profiles_tab:gender_label:Gender
+add_profiles_tab:dob_label:Date of birth
+add_profiles_tab:dod_label:Date of death
+add_profiles_tab:mother_label:Mother's name
+add_profiles_tab:father_label:Father's name
+add_profiles_tab:chara_label:Characteristics
+add_profiles_tab:disease_label:History of disease
+add_profiles_tab:sold_label:Sold
+add_profiles_tab:sold_info_label:Transaction details
+add_profiles_tab:bought_label:Bought
+add_profiles_tab:bought_info_label:Transaction details
+add_profiles_tab:name_entry:Start with capital letter.
+add_profiles_tab:dob_entry:DD/MM/YYYY
+add_profiles_tab:dod_entry:DD/MM/YYYY
+add_profiles_tab:mother_entry:Start with capital letter.
+add_profiles_tab:father_entry:Start with capital letter.
+add_profiles_tab:male_radiobutton:Male
+add_profiles_tab:female_radiobutton:Female
+add_profiles_tab:sold_radiobutton:Yes
+add_profiles_tab:not_sold_radiobutton:No
+add_profiles_tab:bought_radiobutton:Yes
+add_profiles_tab:not_bought_radiobutton:No
+calendar_tab:mo_label:Mon
+calendar_tab:tu_label:Tue
+calendar_tab:we_label:Wed
+calendar_tab:th_label:Thu
+calendar_tab:fr_label:Fri
+calendar_tab:sa_label:Sat
+calendar_tab:su_label:Sun
+charts_tab:milking_label:Milking during the year
+charts_tab:label_1:Goats in herd  
+charts_tab:label_21:Goats displayed on chart  
+charts_tab:label_22: (add birth date to see more)
+charts_tab:label_3:Dead and sold goats  
+charts_tab:label_4:Males in herd  
+charts_tab:label_5:Females in herd  
+charts_tab:male_label:male
+charts_tab:female_label:female
+charts_tab:age_label:age
+charts_tab:show1:Active M
+charts_tab:show2:Active F
+charts_tab:show3:Name A-Z
+check_calendar_input:messagebox1:Sorry!
+check_calendar_input:messagebox2:Sign '-' is not allowed.
+check_calendar_input:messagebox3:You need dad to add event.
+check_calendar_input:messagebox4:You need mum to add event.
+check_calendar_input:messagebox5:You need a patient and a medicine to add event.
+check_calendar_input:messagebox6:'Dosing period' field require a digit.
+check_calendar_input:messagebox7:Digit in 'dosing period' field have to be positive.
+check_calendar_input:messagebox8:'Dosing period' field can't be bigger than 20.
+check_calendar_input:messagebox9:'Withdrawal period' field require a digit.
+check_calendar_input:messagebox10:Digit in 'Withdrawal period' field have to be positive.
+check_calendar_input:messagebox11:'Withdrawal period' field can't be bigger than 20.
+check_calendar_input:messagebox12:Field cannot be empty.
+check_calendar_input:messagebox13:Sign '-' is not allowed.
+check_calendar_input:messagebox14:Only integers please.
+check_calendar_input:messagebox15:Max value is 8000.
+check_profiles_input:messagebox:Yesss!
+check_profiles_input:messagebox1:Error!
+check_profiles_input:messagebox2:At least one unique property ('Name' or 'ID Number') required to add a new profile.
+check_profiles_input:messagebox3:Missing gender.
+check_profiles_input:messagebox4:Sign '#' is not allowed.
+check_profiles_input:messagebox5:Name must be shorter than 30 signs.
+check_profiles_input:messagebox6:Name have to start with capital letter.
+check_profiles_input:messagebox7:Correct date format - DD/MM/YYYY. Example - 02/03/2015.
+check_profiles_input:messagebox8:Sign '@' is not allowed.
+check_profiles_input:messagebox9:Milking measurement and fat content have to follow 'MM/YY-X.X' format. Example - 02/18-2.0
+check_profiles_input:messagebox10:Profile added successfully.
+compare_profiles_tab:show_prof_label:Show Profiles
+compare_profiles_tab:sort_by_label:Sort by
+compare_profiles_tab:pick_prof_tuple1:Active
+compare_profiles_tab:pick_prof_tuple2:Active F
+compare_profiles_tab:pick_prof_tuple3:Active M
+compare_profiles_tab:pick_prof_tuple4:Inactive
+compare_profiles_tab:pick_prof_tuple5:All
+compare_profiles_tab:sort_prof_tuple1:Name A-Z
+compare_profiles_tab:sort_prof_tuple2:Name Z-A
+compare_profiles_tab:sort_prof_tuple3:Milking H-L
+compare_profiles_tab:sort_prof_tuple4:Milking L-H
+compare_profiles_tab:sort_prof_tuple5:Age H-L
+compare_profiles_tab:sort_prof_tuple6:Age L-H
+compare_profiles_tab:sort_prof_tuple7:Gender
+compare_profiles_tab:checkbox_label:Select parameters
+compare_profiles_tab:gender_checkbutton:Gender
+compare_profiles_tab:dob_checkbutton:Date Of birth
+compare_profiles_tab:milking_checkbutton:Milking
+compare_profiles_tab:fat_checkbutton:Fat content
+compare_profiles_tab:apply_button:Apply
+compare_profiles_tab:close_button:Close
+compare_profiles_tab:help_button:?
+compare_profiles_tab:name_label:Name
+compare_profiles_tab:id_label:ID
+compare_profiles_tab:gender_label:Gender
+compare_profiles_tab:dob_label:DoB
+compare_profiles_tab:milking_label:Milking
+compare_profiles_tab:fat_content_label:Fat content
+compare_profiles_tab:Mgender:M
+compare_profiles_tab:Fgender:F
+compare_profiles_tab:age:y)
+process_calendar_data:messagebox1:Yay!
+process_calendar_data:messagebox2:Delivery expected 
+process_calendar_data:messagebox3:Sorry!
+process_calendar_data:messagebox4:An error occurred: cannot save the event.
+process_calendar_data:messagebox5:Event added successfully.
+process_calendar_data:messagebox6:An error occurred: cannot delete the event.
+process_calendar_data:messagebox7:Event deleted successfully.
+process_calendar_data:month1:January
+process_calendar_data:month2:February
+process_calendar_data:month3:March
+process_calendar_data:month4:April
+process_calendar_data:month5:May
+process_calendar_data:month6:June
+process_calendar_data:month7:July
+process_calendar_data:month8:August
+process_calendar_data:month9:September
+process_calendar_data:month10:October
+process_calendar_data:month11:November
+process_calendar_data:month12:December
+single_day_view:mum_label:Lucky mum
+single_day_view:dad_label:Lucky dad
+single_day_view:save:Save
+single_day_view:close:Close
+single_day_view:treated_goat:Treated goat(s)
+single_day_view:medicine:Medicine
+single_day_view:dosing_period:Dosing period in days
+single_day_view:withdrawal_period:Withdrawal period in days
+single_day_view:note:Note
+single_day_view:milking:Today's milking
+single_day_view:title:Title
+single_day_view:advice:To delete event right-click on it.
+single_day_view:back:Back
+single_day_view:pregnancy:Pregnancy
+single_day_view:medicine_button:Medicine
+single_day_view:daily_milking:Daily Milking
+single_day_view:other:Other
+single_day_view:label:Patient(s)  
+single_day_view:label1:Dosing period  
+single_day_view:label2: day left.
+single_day_view:label3:Today's milking  
+single_day_view:label4:Celebrate the miracle of life! 
+single_day_view:label5:is expecting. 
+single_day_view:label6: doesn't know if he's ready.
+single_day_view:label7:Withdrawal from  
+single_day_view:label8:Withdrawal  
+single_day_view:messagebox:Delete
+single_day_view:messagebox1:Are You sure you want to delete event?
+view_edit_delete_profile:back_button:Back
+view_edit_delete_profile:search_button:Search
+view_edit_delete_profile:help_label:Enter name or/and identification number to find the profile.
+view_edit_delete_profile:name_label:Goat's name
+view_edit_delete_profile:id_label:ID number
+view_edit_delete_profile:edit_button:Edit
+view_edit_delete_profile:delete_button:Delete
+view_edit_delete_profile:gender_label:Gender
+view_edit_delete_profile:dob_label:Date of birth
+view_edit_delete_profile:dod_label:Date of death
+view_edit_delete_profile:mother_label:Mother's name
+view_edit_delete_profile:father_label:Father's name
+view_edit_delete_profile:curent_male_label:Male
+view_edit_delete_profile:curent_female_label:Female
+view_edit_delete_profile:chara_button:Chara
+view_edit_delete_profile:disease_button:Disease
+view_edit_delete_profile:sold_button:Sold
+view_edit_delete_profile:bought_button:Bought
+view_edit_delete_profile:milking_button:Milk
+view_edit_delete_profile:fat_content_button:Fat content
+view_edit_delete_profile:previous_page_button:< Previous page
+view_edit_delete_profile:save_button:Save changes
+view_edit_delete_profile:milk_label:Milk measurement
+view_edit_delete_profile:milk_help_label:MM/YY-0.0
+view_edit_delete_profile:milk_example_label:Example  05/17-3.5
+view_edit_delete_profile:fat_content_label:Fat content (%)
+view_edit_delete_profile:fat_content_help_label:MM/YY-0.0
+view_edit_delete_profile:fat_content_example_label:Example  05/17-4.0
+view_edit_delete_profile:next_page_button:Next page >
+view_edit_delete_profile:chara_label:Characteristics
+view_edit_delete_profile:disease_label:History of disease
+view_edit_delete_profile:sold_info_label:Transaction details
+view_edit_delete_profile:bought_label:Bought
+view_edit_delete_profile:sold_radiobutton:Yes
+view_edit_delete_profile:not_sold_radiobutton:No
+view_edit_delete_profile:confirm:Delete
+view_edit_delete_profile:confirm1:Are you sure you want to delete profile?
+view_edit_delete_profile:messagebox1:Sorry!
+view_edit_delete_profile:messagebox2:Profile does not exist.
+sort_profiles:age:y
+process_profiles_data:messagebox:Yupe!
+process_profiles_data:messagebox1:Profile added successfully!
+process_profiles_data:messagebox2:Sorry!
+process_profiles_data:messagebox3:Name in use.
+process_profiles_data:messagebox4:ID number in use.

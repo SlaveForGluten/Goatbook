@@ -1,0 +1,216 @@
+run_me:profiles_frame:Perfiles
+run_me:charts_frame:Diagrama
+run_me:calendar_frame:Calendario
+run_me:options_frame:Opciones
+run_me:add_profile:Anadir Perfil
+run_me:view_profiles:Comparar Perfiles
+run_me:search_for_profile:Buscar por Perfil
+run_me:add_profile_label:-  Anadir un nuevo perfil de cabra.
+run_me:view_profiles_label:-  Comparar perfiles en tu manada.
+run_me:search_for_profile_label:-  Encuentra un perfil, edita o borra.
+run_me:family_tree:Arbol genealogico
+run_me:milking:Diagrama de ordeno
+run_me:age_pyramid:Piramide de edad
+run_me:fam_tree_label:-  Muestra el arbol genealogico de toda tu manada.
+run_me:milking_label:-  Diagrama que muestra el ordeno durante el ano.
+run_me:age_pyramid_label:-  Piramide de edad de tu manada.
+run_me:messagebox1:Yay!
+run_me:messagebox2:Reinicia el programa / Restart the program.
+run_me:label_frame:Idiomas
+run_me:button:Aplicar
+add_profiles_tab:back_button:Atras
+add_profiles_tab:save_button:Guardar
+add_profiles_tab:help_button:?
+add_profiles_tab:name_label:Nombre de la cabra
+add_profiles_tab:id_label:Numero de Identidad
+add_profiles_tab:gender_label:Genero
+add_profiles_tab:dob_label:Fecha de nacimiento
+add_profiles_tab:dod_label:Fecha de muerte
+add_profiles_tab:mother_label:Nombre de la madre
+add_profiles_tab:father_label:Nombre del padre
+add_profiles_tab:chara_label:Caracteristicas
+add_profiles_tab:disease_label:Historial de enfermedad
+add_profiles_tab:sold_label:Venta
+add_profiles_tab:sold_info_label:Detalles de la transaccion
+add_profiles_tab:bought_label:Compra
+add_profiles_tab:bought_info_label:Detalles de la transaccion
+add_profiles_tab:name_entry:Empieza con letra mayuscula.
+add_profiles_tab:dob_entry:DD/MM/YYYY
+add_profiles_tab:dod_entry:DD/MM/YYYY
+add_profiles_tab:mother_entry:Empieza con letra mayuscula.
+add_profiles_tab:father_entry:Empieza con letra mayuscula.
+add_profiles_tab:male_radiobutton:Macho
+add_profiles_tab:female_radiobutton:Hembra
+add_profiles_tab:sold_radiobutton:Si
+add_profiles_tab:not_sold_radiobutton:No
+add_profiles_tab:bought_radiobutton:Si
+add_profiles_tab:not_bought_radiobutton:No
+calendar_tab:mo_label:Lun
+calendar_tab:tu_label:Mar
+calendar_tab:we_label:Mier
+calendar_tab:th_label:Jue
+calendar_tab:fr_label:Vier
+calendar_tab:sa_label:Sab
+calendar_tab:su_label:Dom
+charts_tab:milking_label:Ordeno durante el ano
+charts_tab:label_1:Cabras en la manada 
+charts_tab:label_21:Cabras mostradas en el diagrama 
+charts_tab:label_22: (anade fecha de nacimiento para ver mas)
+charts_tab:label_3:Cabras muertas y cabras vendidas  
+charts_tab:label_4:Machos en la manada 
+charts_tab:label_5:Hembras en la manada 
+charts_tab:male_label:macho
+charts_tab:female_label:hembra
+charts_tab:age_label:edad
+charts_tab:show1:Activos M
+charts_tab:show2:Activos H
+charts_tab:show3:Nombre A-Z
+check_calendar_input:messagebox1:Lo siento!
+check_calendar_input:messagebox2:Simbolo '-' no permitido.
+check_calendar_input:messagebox3:Necesitas un padre para anadir evento.
+check_calendar_input:messagebox4:Necesitas una madre para anadir evento.
+check_calendar_input:messagebox5:Necesitas un paciente y una medicina para anadir evento.
+check_calendar_input:messagebox6:'Periodo de dosis' el campo requiere un digito.
+check_calendar_input:messagebox7:Digito en 'periodo de dosis' campo debe ser positivo.
+check_calendar_input:messagebox8:'Periodo de dosis' campo no puede ser mas de 20.
+check_calendar_input:messagebox9:'Periodo de cuarentena' campo requiere un digito.
+check_calendar_input:messagebox10:Digito en 'Periodo de cuarentena' campo debe ser positivo.
+check_calendar_input:messagebox11:'Periodo de cuarentena' campo no puede ser mayor que 20.
+check_calendar_input:messagebox12:Campo no puede estar vacio.
+check_calendar_input:messagebox13:Simbolo '-' no esta permitido.
+check_calendar_input:messagebox14:Solo integrales por favor.
+check_calendar_input:messagebox15:Valor maximo es 8000.
+check_profiles_input:messagebox:Sii!
+check_profiles_input:messagebox1:Error!
+check_profiles_input:messagebox2:Al menos una unica propiedad ('Nombre' o 'Numero de identidad') requerido para anadir a nuevo perfil.
+check_profiles_input:messagebox3:Genero perdido.
+check_profiles_input:messagebox4:Simbolo '#' no esta permitido.
+check_profiles_input:messagebox5:Nombre debe ser mas corto que 30 digitos.
+check_profiles_input:messagebox6:Nombre debe empezar por mayuscula.
+check_profiles_input:messagebox7:Correcto formato de fecha - DD/MM/YYYY. Ejemplo - 02/03/2015.
+check_profiles_input:messagebox8:Simbolo '@' no esta permitido.
+check_profiles_input:messagebox9:Medida de ordeno y contenido de grasa debe contener el siguiente 'MM/YY-X.X' formato. Ejemplo - 02/18-2.0
+check_profiles_input:messagebox10:Perfil anadido satisfactoriamente.
+compare_profiles_tab:show_prof_label:Muestra Perfiles
+compare_profiles_tab:sort_by_label:Clasificados por
+compare_profiles_tab:pick_prof_tuple1:Activos
+compare_profiles_tab:pick_prof_tuple2:Activos H
+compare_profiles_tab:pick_prof_tuple3:Activos M
+compare_profiles_tab:pick_prof_tuple4:Inactivos
+compare_profiles_tab:pick_prof_tuple5:Todos
+compare_profiles_tab:sort_prof_tuple1:Nombre A-Z
+compare_profiles_tab:sort_prof_tuple2:Nombre Z-A
+compare_profiles_tab:sort_prof_tuple3:Ordeno H-L
+compare_profiles_tab:sort_prof_tuple4:Ordeno L-H
+compare_profiles_tab:sort_prof_tuple5:Edad H-L
+compare_profiles_tab:sort_prof_tuple6:Edad L-H
+compare_profiles_tab:sort_prof_tuple7:Genero
+compare_profiles_tab:checkbox_label:Selecciona parametros
+compare_profiles_tab:gender_checkbutton:Genero
+compare_profiles_tab:dob_checkbutton:Fecha De Nacimiento
+compare_profiles_tab:milking_checkbutton:Ordeno
+compare_profiles_tab:fat_checkbutton:Contenido graso
+compare_profiles_tab:apply_button:Aplicar
+compare_profiles_tab:close_button:Cerrar
+compare_profiles_tab:help_button:?
+compare_profiles_tab:name_label:Nombre
+compare_profiles_tab:id_label:ID
+compare_profiles_tab:gender_label:Genero
+compare_profiles_tab:dob_label:Fecha de Nacimiento
+compare_profiles_tab:milking_label:Ordeno
+compare_profiles_tab:fat_content_label:Contenido graso
+compare_profiles_tab:Mgender:M
+compare_profiles_tab:Fgender:H
+compare_profiles_tab:age:a)
+process_calendar_data:messagebox1:Yay!
+process_calendar_data:messagebox2:Nacimiento esperado 
+process_calendar_data:messagebox3:Lo siento!
+process_calendar_data:messagebox4:Un error ha ocurrido- no puede guardar el evento.
+process_calendar_data:messagebox5:Evento anadido satisfactoriamente.
+process_calendar_data:messagebox6:Un error ha ocurrido- no puede borrarr el evento.
+process_calendar_data:messagebox7:Evento borrado satisfactoriamente.
+process_calendar_data:month1:Enero
+process_calendar_data:month2:Febrero
+process_calendar_data:month3:Marzo
+process_calendar_data:month4:Abril
+process_calendar_data:month5:Mayo
+process_calendar_data:month6:Junio
+process_calendar_data:month7:Julio
+process_calendar_data:month8:Agosto
+process_calendar_data:month9:Septiembre
+process_calendar_data:month10:Octubre
+process_calendar_data:month11:Noviembre
+process_calendar_data:month12:Deciembre
+single_day_view:mum_label:Madre afortunada
+single_day_view:dad_label:Padre afortunado
+single_day_view:save:Guardar
+single_day_view:close:Cerrar
+single_day_view:treated_goat:Cabra (s) tratadas
+single_day_view:medicine:Medicina
+single_day_view:dosing_period:Periodos de dosis en dias
+single_day_view:withdrawal_period:Periodo de extractos en dias
+single_day_view:note:Notas
+single_day_view:milking:Ordeno del dia
+single_day_view:title:Titulo
+single_day_view:advice:Para borrar evento pulsa el boton derecho.
+single_day_view:back:Atras
+single_day_view:pregnancy:Embarazo
+single_day_view:medicine_button:Medicina
+single_day_view:daily_milking:Ordeno diario
+single_day_view:other:Otros
+single_day_view:label:Paciente(s)  
+single_day_view:label1:Periodo de dosis 
+single_day_view:label2: dias que quedan.
+single_day_view:label3:Ordeno de hoy  
+single_day_view:label4:Celebra el milagro de la vida! 
+single_day_view:label5:esta embarazada. 
+single_day_view:label6: no sabe si esta preparadodo.
+single_day_view:label7:cuarentena desde  
+single_day_view:label8:Cuarentena 
+single_day_view:messagebox:Borrar
+single_day_view:messagebox1:Estas seguro de borrar el evento?
+view_edit_delete_profile:back_button:Atras
+view_edit_delete_profile:search_button:Buscar
+view_edit_delete_profile:help_label:Anada nombre o/y numero de identificacion para buscar el perfil.
+view_edit_delete_profile:name_label:Nombre de la cabra
+view_edit_delete_profile:id_label:Numero de identificacion
+view_edit_delete_profile:edit_button:Editar
+view_edit_delete_profile:delete_button:Borrar
+view_edit_delete_profile:gender_label:Genero
+view_edit_delete_profile:dob_label:Fecha de nacimiento
+view_edit_delete_profile:dod_label:Fecha de muerte
+view_edit_delete_profile:mother_label:Nombre de la madre
+view_edit_delete_profile:father_label:Nombre del padre
+view_edit_delete_profile:curent_male_label:Macho
+view_edit_delete_profile:curent_female_label:Hembra
+view_edit_delete_profile:chara_button:Caract
+view_edit_delete_profile:disease_button:Enfermedad
+view_edit_delete_profile:sold_button:Vendido
+view_edit_delete_profile:bought_button:Comprado
+view_edit_delete_profile:milking_button:Leche
+view_edit_delete_profile:fat_content_button:Contenido graso
+view_edit_delete_profile:previous_page_button:< Pagina anterior
+view_edit_delete_profile:save_button:Guardar los cambios
+view_edit_delete_profile:milk_label:Medida de la leche
+view_edit_delete_profile:milk_help_label:MM/YY-0.0
+view_edit_delete_profile:milk_example_label:Ejemplo  05/17-3.5
+view_edit_delete_profile:fat_content_label:Contenido graso (%)
+view_edit_delete_profile:fat_content_help_label:MM/YY-0.0
+view_edit_delete_profile:fat_content_example_label:Ejemplo  05/17-4.0
+view_edit_delete_profile:next_page_button:Pagina siguiente >
+view_edit_delete_profile:chara_label:Caracteristicas
+view_edit_delete_profile:disease_label:Historial de la enfermedad
+view_edit_delete_profile:sold_info_label:Detalles de la transaccion
+view_edit_delete_profile:bought_label:Comprado
+view_edit_delete_profile:sold_radiobutton:Si
+view_edit_delete_profile:not_sold_radiobutton:No
+view_edit_delete_profile:confirm:Borrar
+view_edit_delete_profile:confirm1:Estas seguro de borrar el perfil?
+view_edit_delete_profile:messagebox1:Lo siento!
+view_edit_delete_profile:messagebox2:El perfil no existe.
+sort_profiles:age:a
+process_profiles_data:messagebox:Yupe!
+process_profiles_data:messagebox1:Perfil anadido satisfactoriamente!
+process_profiles_data:messagebox2:Lo siento!
+process_profiles_data:messagebox3:Nombre en uso.
+process_profiles_data:messagebox4:Numero identificativo en uso.

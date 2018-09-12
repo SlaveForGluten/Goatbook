@@ -1,0 +1,216 @@
+run_me:profiles_frame:Profile
+run_me:charts_frame:Wykresy
+run_me:calendar_frame:Kalendarz
+run_me:options_frame:Opcje
+run_me:add_profile:Dodaj Profil
+run_me:view_profiles:Porównaj Profile
+run_me:search_for_profile:Szukaj Profilu
+run_me:add_profile_label:-  Dodaj nowy profil.
+run_me:view_profiles_label:-  wyswietla wybrane parametry.
+run_me:search_for_profile_label:-  Znajdz istniejacy profil, zeby go wyswietlic, dodac lub usunac.
+run_me:family_tree:Drzewo genealo.
+run_me:milking:Wykres mlecznosci
+run_me:age_pyramid:Piramida wieku
+run_me:fam_tree_label:-  Wyswietla kozie rodziny.
+run_me:milking_label:-  Wykresy pokazujace mlecznosc na przestrzeni roku.
+run_me:age_pyramid_label:-  Piramida wieku z dodatkowymi informacjami.
+run_me:messagebox1:Hura!
+run_me:messagebox2:Restart the program / Zrestartuj aplikacje.
+run_me:label_frame:Jezyki
+run_me:button:Zastosuj
+add_profiles_tab:back_button:Wstecz
+add_profiles_tab:save_button:Zapisz
+add_profiles_tab:help_button:?
+add_profiles_tab:name_label:Imie kozy
+add_profiles_tab:id_label:Numer ID
+add_profiles_tab:gender_label:Plec
+add_profiles_tab:dob_label:Data urodzenia
+add_profiles_tab:dod_label:Data smierci
+add_profiles_tab:mother_label:Imie matki
+add_profiles_tab:father_label:Imie ojca
+add_profiles_tab:chara_label:Charakterystyka
+add_profiles_tab:disease_label:Historia choroby
+add_profiles_tab:sold_label:Sprzedana
+add_profiles_tab:sold_info_label:Detale transakcji
+add_profiles_tab:bought_label:Kupiona
+add_profiles_tab:bought_info_label:Detale transakcji
+add_profiles_tab:name_entry:Zacznij z duzej litery.
+add_profiles_tab:dob_entry:DD/MM/RRRR
+add_profiles_tab:dod_entry:DD/MM/RRRR
+add_profiles_tab:mother_entry:Zacznij z duzej litery.
+add_profiles_tab:father_entry:Zacznij z duzej litery.
+add_profiles_tab:male_radiobutton:Samiec
+add_profiles_tab:female_radiobutton:Samica
+add_profiles_tab:sold_radiobutton:Tak
+add_profiles_tab:not_sold_radiobutton:Nie
+add_profiles_tab:bought_radiobutton:Tak
+add_profiles_tab:not_bought_radiobutton:Nie
+calendar_tab:mo_label:Pon
+calendar_tab:tu_label:Wto
+calendar_tab:we_label:Sro
+calendar_tab:th_label:Czw
+calendar_tab:fr_label:Pia
+calendar_tab:sa_label:Sob
+calendar_tab:su_label:Nie
+charts_tab:milking_label:Mlecznosc w ciagu roku
+charts_tab:label_1:Kozy w stadzie  
+charts_tab:label_21:Kozy wyswietlone na wykresie  
+charts_tab:label_22: (dodaj daty urodzen zeby zobaczyc wiecej)
+charts_tab:label_3:Martwe i sprzedane kozy  
+charts_tab:label_4:Samce w stadzie  
+charts_tab:label_5:Samice w stadzie  
+charts_tab:male_label:samce
+charts_tab:female_label:samice
+charts_tab:age_label:wiek
+charts_tab:show1:Aktywne M
+charts_tab:show2:Aktywne K
+charts_tab:show3:Imie A-Z
+check_calendar_input:messagebox1:Ups!
+check_calendar_input:messagebox2:Znak '-' jest niedozwolony.
+check_calendar_input:messagebox3:Podaj ojca zeby dodac zdazenie.
+check_calendar_input:messagebox4:Podaj matke zeby dodac zdazenie.
+check_calendar_input:messagebox5:Potrzebujesz pacjenta i lekarstwo zeby dodac zdarzenie.
+check_calendar_input:messagebox6:'Czas dawkowania' wymaga liczby.
+check_calendar_input:messagebox7:Liczba w polu 'Czas dawkowania' musi byc pozytywna.
+check_calendar_input:messagebox8:'Czas dawkowania' nie moze byc wiekszy niz 20 dni.
+check_calendar_input:messagebox9:Pole 'Karencja' wymaga liczby.
+check_calendar_input:messagebox10:Liczba w polu 'Karencja' musi byc pozytywna.
+check_calendar_input:messagebox11:Pole 'Karencja'nie moze byc wieksze niz 20 dni.
+check_calendar_input:messagebox12:Pole nie moze byc puste.
+check_calendar_input:messagebox13:Znak '-' jest niedozwolony.
+check_calendar_input:messagebox14:Tylko liczby prosze.
+check_calendar_input:messagebox15:Maksymalna wartosc to 8000.
+check_profiles_input:messagebox:Hura!
+check_profiles_input:messagebox1:Blad!
+check_profiles_input:messagebox2:'Imie' lub/oraz 'Numer ID' wymagane zeby dodac profil.
+check_profiles_input:messagebox3:Brakuje plci.
+check_profiles_input:messagebox4:Znak '#' jest niedozwolony.
+check_profiles_input:messagebox5:Imie musi byc krutsze niz 30 znakow.
+check_profiles_input:messagebox6:Imie musi zaczynac sie z wielkiej litery.
+check_profiles_input:messagebox7:Prawidlowy format daty - DD/MM/YYYY. Przyklad - 02/03/2015.
+check_profiles_input:messagebox8:Znak '@' jest niedozwolony.
+check_profiles_input:messagebox9:'Pomiar mlecznosci' i 'zawartosc tluszczu' musza przestrzegac'MM/YY-X.X' formatu. Przyklad - 02/18-2.0
+check_profiles_input:messagebox10:Profil dodany.
+compare_profiles_tab:show_prof_label:Pokaz Profile
+compare_profiles_tab:sort_by_label:Sortuj wedlug
+compare_profiles_tab:pick_prof_tuple1:Aktywne
+compare_profiles_tab:pick_prof_tuple2:Aktywne K
+compare_profiles_tab:pick_prof_tuple3:Aktywne M
+compare_profiles_tab:pick_prof_tuple4:Nieaktywne
+compare_profiles_tab:pick_prof_tuple5:Wszystkie
+compare_profiles_tab:sort_prof_tuple1:Imie A-Z
+compare_profiles_tab:sort_prof_tuple2:Imie Z-A
+compare_profiles_tab:sort_prof_tuple3:Mlecznosc Wys-Nis
+compare_profiles_tab:sort_prof_tuple4:Mlecznosc Nis-Wys
+compare_profiles_tab:sort_prof_tuple5:Wiek Wys-Nis
+compare_profiles_tab:sort_prof_tuple6:Wiek Nis-Wys
+compare_profiles_tab:sort_prof_tuple7:Plec
+compare_profiles_tab:checkbox_label:Wybierz parametr
+compare_profiles_tab:gender_checkbutton:Plec
+compare_profiles_tab:dob_checkbutton:Data urodzenia
+compare_profiles_tab:milking_checkbutton:Mlecznosc
+compare_profiles_tab:fat_checkbutton:Zawartosc tlusz.
+compare_profiles_tab:apply_button:Zastosuj
+compare_profiles_tab:close_button:Zamknij
+compare_profiles_tab:help_button:?
+compare_profiles_tab:name_label:Imie
+compare_profiles_tab:id_label:ID
+compare_profiles_tab:gender_label:Plec
+compare_profiles_tab:dob_label:Data urodzenia
+compare_profiles_tab:milking_label:Mlecznosc
+compare_profiles_tab:fat_content_label:Zawartosc tluszczu
+compare_profiles_tab:Mgender:M
+compare_profiles_tab:Fgender:K
+compare_profiles_tab:age:l)
+process_calendar_data:messagebox1:Hura!
+process_calendar_data:messagebox2:Ciaza spodziewana 
+process_calendar_data:messagebox3:Ups!
+process_calendar_data:messagebox4:Wystapil blad - nie mozna zapisac wydarzenia.
+process_calendar_data:messagebox5:Zdarzenie dodane.
+process_calendar_data:messagebox6:Wystapil blad - nie mozna usunac wydarzenia.
+process_calendar_data:messagebox7:Zdarzenie usuniete.
+process_calendar_data:month1:Styczen
+process_calendar_data:month2:Luty
+process_calendar_data:month3:Marzec
+process_calendar_data:month4:Kwiecien
+process_calendar_data:month5:Maj
+process_calendar_data:month6:Czerwiec
+process_calendar_data:month7:Lipiec
+process_calendar_data:month8:Sierpien
+process_calendar_data:month9:Wrzesien
+process_calendar_data:month10:Pazdziernik
+process_calendar_data:month11:Listopad
+process_calendar_data:month12:Grudzien
+single_day_view:mum_label:Mama
+single_day_view:dad_label:Tata
+single_day_view:save:Zapisz
+single_day_view:close:Zamknij
+single_day_view:treated_goat:Leczone kozy(a) - 
+single_day_view:medicine:Lekarstwo
+single_day_view:dosing_period:Czas dawkowania w dniach
+single_day_view:withdrawal_period:Karencja w dniach
+single_day_view:note:Notatka
+single_day_view:milking:Dzisiejszy udój
+single_day_view:title:Tytul
+single_day_view:advice:Zeby usunac zdarzenie kliknij na nie prawym przyciskiem.
+single_day_view:back:Wstecz
+single_day_view:pregnancy:Ciaza
+single_day_view:medicine_button:Lekarstwo
+single_day_view:daily_milking:Dzienny udój
+single_day_view:other:Inne
+single_day_view:label:Pacjet(ka)  
+single_day_view:label1:Czas dozowania  
+single_day_view:label2: dni zostalo.
+single_day_view:label3:Dzisiejszu udój  
+single_day_view:label4:Swietuj cód zycia! 
+single_day_view:label5:jest brzemienna. 
+single_day_view:label6: nie wie czy jest gotowy.
+single_day_view:label7:Karencja od   
+single_day_view:label8:Karencja  
+single_day_view:messagebox:Usun
+single_day_view:messagebox1:Jestes pewien, ze chcesz usunac zdarzenie?
+view_edit_delete_profile:back_button:Wróc
+view_edit_delete_profile:search_button:Szukaj
+view_edit_delete_profile:help_label:Podaj imie i/lub numer identyfikacyjny zeby znalezc profil.
+view_edit_delete_profile:name_label:Imie kozy
+view_edit_delete_profile:id_label:numer ID
+view_edit_delete_profile:edit_button:Edytuj
+view_edit_delete_profile:delete_button:Usun
+view_edit_delete_profile:gender_label:Plec
+view_edit_delete_profile:dob_label:Data urodzenia
+view_edit_delete_profile:dod_label:Data smierci
+view_edit_delete_profile:mother_label:Imie matki
+view_edit_delete_profile:father_label:Imie ojca
+view_edit_delete_profile:curent_male_label:Samiec
+view_edit_delete_profile:curent_female_label:Samica
+view_edit_delete_profile:chara_button:Chara
+view_edit_delete_profile:disease_button:Choroby
+view_edit_delete_profile:sold_button:Sprzedaz
+view_edit_delete_profile:bought_button:Kupno
+view_edit_delete_profile:milking_button:Mlecznosc
+view_edit_delete_profile:fat_content_button:Zaw. tluszczu
+view_edit_delete_profile:previous_page_button:< Poprz strona
+view_edit_delete_profile:save_button:Zapisz zmiany
+view_edit_delete_profile:milk_label:Pomiar mlecznosci
+view_edit_delete_profile:milk_help_label:MM/RR-0.0
+view_edit_delete_profile:milk_example_label:Przyklad  05/17-3.5
+view_edit_delete_profile:fat_content_label:Zaw. tluszczu (%)
+view_edit_delete_profile:fat_content_help_label:MM/RR-0.0
+view_edit_delete_profile:fat_content_example_label:Przyklad  05/17-4.0
+view_edit_delete_profile:next_page_button:Nast strona >
+view_edit_delete_profile:chara_label:Charakterystyka
+view_edit_delete_profile:disease_label:Historia chorób
+view_edit_delete_profile:sold_info_label:Detale tranzakcji
+view_edit_delete_profile:bought_label:Kupiony
+view_edit_delete_profile:sold_radiobutton:Tak
+view_edit_delete_profile:not_sold_radiobutton:Nie
+view_edit_delete_profile:confirm:Usun
+view_edit_delete_profile:confirm1:Jestes pewien, ze chcesz usunac profil?
+view_edit_delete_profile:messagebox1:Ups!
+view_edit_delete_profile:messagebox2:Nie znaleziono profilu.
+sort_profiles:age:l
+process_profiles_data:messagebox:Hura!
+process_profiles_data:messagebox1:Dodano profil!
+process_profiles_data:messagebox2:Ups!
+process_profiles_data:messagebox3:Imie w uzyciu.
+process_profiles_data:messagebox4:Numer ID w uzyciu.
