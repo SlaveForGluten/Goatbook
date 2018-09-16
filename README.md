@@ -1,8 +1,7 @@
 # Goatbook
 1. to run the program, download all files to one folder and run "run_me.py"
 2. to change language go to the options tab
-3. program has some profiles and events added to show you how it works, you can delete them from within a running program 
-    or you can clean out Profiles.txt and Calendar.txt files
+3. program has some profiles and events added to show you how it works, you can delete them from within a running program or you can clean out Profiles.txt and Calendar.txt files
     
 Features:
 -adding, deleting and editing profiles
