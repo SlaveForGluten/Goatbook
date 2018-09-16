@@ -13,11 +13,11 @@ Features:
 6. interactive calendar, starting page is current month, 'today' is marked 
 7. each day has 5 different, optional markers that will let you know about event type that occurs that day
 8. from month-view, you can go to single day view by clicking on a chosen day from there you can add, view and delete 4 types of events:
-  *Pregnancy - mark insemination day on calendar and program will automatically add 'Delivery' event 150 days later to let 
+ - Pregnancy - mark insemination day on calendar and program will automatically add 'Delivery' event 150 days later to let 
     you know when to expect delivery
-  *Medicine - add medicine and patients that were treated, the program allows you to add 'Withdrawal' period 
+ - Medicine - add medicine and patients that were treated, the program allows you to add 'Withdrawal' period 
     (some medicines affect milk or meat)
-  *Milking - add how much you have milked day by day to keep track of your statistics and see how much different practices affect milking
-  *Other - undefined, you add title and content
--three languages: Polish, English, and Spanish, to add new languages you only have to modify 2 text files, no changes in the
+ - Milking - add how much you have milked day by day to keep track of your statistics and see how much different practices affect milking
+ - Other - undefined, you add title and content
+9. three languages: Polish, English, and Spanish, to add new languages you only have to modify 2 text files, no changes in the
   code are necessary 
