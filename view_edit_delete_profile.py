@@ -653,7 +653,7 @@ class ManipulateProfile:
 
         not_sold_radiobutton = tk.Radiobutton(
             edit_profile_frame, text=self.dict["not_sold_radiobutton"],
-            variable=sold_var, value="notSold", font="Helvetica 12",
+            variable=sold_var, value="not_sold", font="Helvetica 12",
             command=not_sold)
         not_sold_radiobutton.place(x=300, y=550)
 
@@ -677,7 +677,7 @@ class ManipulateProfile:
 
         not_bought_radiobutton = tk.Radiobutton(
             edit_profile_frame, text=self.dict["not_sold_radiobutton"],
-            variable=bought_var, value="notBought",
+            variable=bought_var, value="not_bought",
             font="Helvetica 12", command=not_bought)
         not_bought_radiobutton.place(x=300, y=650)
 
